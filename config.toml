@@ -1,0 +1,74 @@
+theme = "showfolio"
+languageCode = "en-us"
+baseurl = "/"
+title = "Home"
+
+
+[params]
+  name = "Showfolio Theme"
+  description = "Modern portfolio theme for your Hugo site."
+  author = "Luke Lacaria"
+  authorEmail = "lukelacaria@gmail.com"
+  authorImage = "/profile-pic-resized.png"
+  autoDarkMode = true
+
+  copyright = "Copyright © 2022- Luke Lacaria · All rights reserved"
+  favicon = "/profile-pic-resized.png"
+
+[params.homepage]
+  title = "Hey 👋 I'm Luke Lacaria"
+  tagline = "Developer, Engineer, Student!"
+  description = "Software Engineer and Blockchain Developer devoted to learning about the industry and producing useful software"
+  contact = "about/"
+
+[params.homepage.resume]
+  skills = ["Python", "SQL", "Web Development"]
+
+[[params.homepage.resume.work]]
+  name = "GatorGrade"
+  role = "Contributor"
+  duration = "Mar 2022 - Present"
+
+[[params.homepage.resume.projects]]
+  name = "Monero Merchant App"
+  description = "App that allow merchants to easily sell products for Monero, and manage their sales in one place."
+  duration = "April 2022 - Present"
+
+[[params.homepage.resume.projects]]
+  name = "NBA Playoff Touch Location Data Analysis"
+  description = "Analysis of the 2020-2021 NBA Playoff touch location data using an SQLite database and Python."
+  duration = "April 2022 - Present"
+
+[[params.homepage.resume.courses]]
+  name = "Web Development"
+  provider = "Allegheny College"
+  duration = "Feb 2022 - May 2022"
+  grade = "TBD"
+
+[[params.homepage.resume.courses]]
+  name = "Software Engineering"
+  provider = "Allegheny College"
+  duration = "Feb 2022 - May 2022"
+  grade = "TBD"
+
+[[params.homepage.resume.courses]]
+  name = "Database Systems"
+  provider = "Allegheny College"
+  duration = "Feb 2022 - May 2022"
+  grade = "TBD"
+
+[params.homepage.social]
+  #twitter = "https://twitter.com/"
+  linkedin = "https://linkedin.com/in/"
+  github = "https://github.com/"
+  #medium = "https://medium.com/"
+  #reddit = "https://reddit.com/"
+  #dribbble = "https://dribbble.com/"
+
+[build]
+  writeStats = true
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
