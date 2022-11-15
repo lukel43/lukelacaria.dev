@@ -22,7 +22,7 @@ title = "Home"
   contact = "about/"
 
 [params.homepage.resume]
-  skills = ["Python", "SQL", "Web Development"]
+  skills = ["Python", "SQL", "C", "Web Development", "Agile Development", "Docker", "Markdown", "GitHub Flow"]
 
 [[params.homepage.resume.work]]
   name = "Alleghen College"
