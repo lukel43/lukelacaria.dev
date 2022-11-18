@@ -1,0 +1,6 @@
+{
+  "title": "Luke Lacaria",  
+  "image": "src/assets/img/profile-pic-320-320.png",
+  "image_alt": "My pic!",
+  "body": "A portfolio website I built with [Eleventy](https://www.11ty.dev/) and [Netlify CMS](https://www.netlifycms.org/)."
+}

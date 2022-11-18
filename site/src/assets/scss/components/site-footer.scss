@@ -1,0 +1,65 @@
+.site-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  border-top: 1px solid var(--color-border);
+}
+
+@media (min-width: 1024px) {
+  .site-footer {
+    padding: 15px 30px;
+  }
+}
+
+.site-footer {  
+  float: right;
+  background-color: #ffffff;
+	text-align: center;
+}
+
+#social-wrapper {
+	text-align: center;
+}
+
+/*Social Media Icons*/
+.social-wrapper {
+  float: left;
+	text-align: center;
+}
+
+.social-wrapper ul li {
+  float: left;
+	display: inline;
+	margin: 0 5px;
+  width: 150px;
+}
+
+.github-icon,
+.gmail-icon,
+.linkedin-icon{
+	width: 40px;
+	height: 40px;
+	opacity: .6;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+  border-radius: 5px;
+  margin-bottom: .5rem;
+}
+
+.github-icon:hover,
+.gmail-icon:hover,
+.linkedin-icon:hover{
+	opacity: 1.0;
+	filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+.footer-nav p {
+	text-align: center;
+}
+
+.source {
+  width: 100vw;
+  float: left;
+  clear: left;
+}
