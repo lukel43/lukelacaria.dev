@@ -13,7 +13,4 @@ eleventyNavigation:
   order: 4
 ---
 
-The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process submissions,
-and saves them in the connected Netlify account where notifications can
-optionally be configured. Each submission is passed through a spam filter and
-if flagged, will display a CAPTCHA challenge to the user.
+Fill out this form to get in touch with me. I also check my email regularly, but if this form is easier for you, go right ahead. I can't wait to hear from you, and will get back to you ASAP!
