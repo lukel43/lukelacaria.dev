@@ -1,13 +1,13 @@
 # Portfolio Website for Luke Lacaria
 
-This respository contain the source code for the portfolio website of [Luke Lacaria](https://lukelacaria.dev/) (that's me)!
+This respository contains the source code for the portfolio website of [Luke Lacaria](https://lukelacaria.dev/) (that's me)!
 
 ## Dependencies
 
-This website was build using [Eleventy](https://www.11ty.dev/) and [Netlify](https://www.netlify.com/). If you wish to clone and run it, simply run the following commands:
+This website was built using [Eleventy](https://www.11ty.dev/) and [Netlify](https://www.netlify.com/). I began with the [Fernfolio](https://github.com/TylerMRoderick/fernfolio-11ty-template) templete, and developed further from there. In order to run this site locally, you will need [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm). If you wish to clone and run it, simply run the following commands:
 
 ```
-git clone https://github.com/allegheny-college-cmpsc-480-fall-2022/cmpsc-480-assignment-5-web-portfolio-lukel43.git
+git clone git@github.com:lukel43/lukelacaria.dev.git
 ```
 
 Then navigate to the site folder using:
@@ -30,7 +30,7 @@ npm start
 
 ## About Me
 
-I am a first generation college student working hard to turn my lifelong passion for technology into products that I can be proud of. Starting in highschool when I took AP Computer Science, I found my love for creating. Currently, I am studying at Allegheny College, pursuing a major in computer science with a minor in economics in order to make it happen. Right now, I am fascinated by blockchain technology, and creating in the world of cryptocurrency. At the same time, I am developing my professional skills in the areas of databases, web development, and Python and C programming. I wanted to create this site to show what I have achieved thus far, and increase my web developing skills
+I am a first generation college student working hard to turn my lifelong passion for technology into products that I can be proud of. Starting in highschool when I took AP Computer Science, I found my love for creating. Currently, I am studying at Allegheny College, pursuing a major in computer science with a minor in economics in order to make it happen. Right now, I am fascinated by blockchain technology, and creating in the world of cryptocurrency. At the same time, I am developing my professional skills in the areas of databases, web development, and Python and C programming. I wanted to create this site to show what I have achieved thus far, and increase my web development skills.
 
 ## Issues
 
