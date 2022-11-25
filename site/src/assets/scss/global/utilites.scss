@@ -5,6 +5,10 @@
   padding: 1rem;
 }
 
+.shadow{
+  box-shadow: var(--shadow);
+}
+
 .page-container img {
   display: flex;
   width: 100%;
