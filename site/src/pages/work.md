@@ -1,6 +1,6 @@
 ---
 title: Work
-subtitle: My previous experiences
+subtitle: This page displays my previous professional and educational experiences.
 date: 2021-03-15T06:33:06.713Z
 permalink: /work/index.html
 eleventyNavigation:
