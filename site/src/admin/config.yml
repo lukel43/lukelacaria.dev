@@ -137,9 +137,9 @@ collections:
               - { label: "Order", name: "order", widget: "number", default: 0 }
 
       # Contact Page
-      - label: "Contact Page"
-        name: "contact"
-        file: "src/pages/contact.md"
+      - label: "Calendar Page"
+        name: "calendar"
+        file: "src/pages/calendar.md"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown", required: false }
