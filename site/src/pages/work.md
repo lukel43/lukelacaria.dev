@@ -38,8 +38,8 @@ technical issues
 
 **B.S. Computer Science** *(August 2020 - Current)*
 
-**GPA:** 3.71
-**Major GPA:** 3.96
+**GPA:** 3.77
+**Major GPA:** 3.97
 
 |**Credentials**|**Awards and Organizations**|
 |---------------|----------------------------|

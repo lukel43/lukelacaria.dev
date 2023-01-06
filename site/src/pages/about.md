@@ -40,9 +40,9 @@ I am currently beginning my career as both a software engineer and blockchain de
 
 ## Awards and Organizations
 
-#### Major GPA: 3.96
+#### Major GPA: 3.97
 
-#### Overall GPA: 3.713
+#### Overall GPA: 3.77
 
 #### Allegheny Student Government (ASG) Senator (2020 - 2021)
 
