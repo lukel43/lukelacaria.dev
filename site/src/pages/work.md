@@ -11,6 +11,8 @@ eleventyNavigation:
 
 #### ✈️ [Howmet Aerospace](https://www.linkedin.com/company/howmet-aerospace/)
 
+**Web Apps & SQL Intern** *(May 2023 - Aug 2023)*
+
 * Developed full stack web app to generate and report server hosting quotes using Python, Django, and SQL complete with git version control, thorough documentation, and deployed with a CI/CD pipeline
 * Developed a tool to fully automate department wide security reporting processes using Python and SQL, saving upper level management nearly half a day per month and removing the need for manual reporting
 
