@@ -11,7 +11,7 @@ eleventyNavigation:
 
 #### 💻 [NetApp](https://www.linkedin.com/company/netapp/)
 
-**Technical Leader** *(Sept 2023 - Current)*
+**Capstone Project Intern** *(Sept 2023 - Current)*
 
 * Developing a JavaScript client library for ONTAP® Pub/Sub messaging
 * Creating a companion web application for user interaction using Agile methodology
