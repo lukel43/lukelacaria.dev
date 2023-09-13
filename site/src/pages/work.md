@@ -9,33 +9,30 @@ eleventyNavigation:
 ---
 ### 👩‍💻 Experience:
 
+#### 💻 [NetApp](https://www.linkedin.com/company/netapp/)
+
+**Technical Leader** *(Sept 2023 - Current)*
+
+* Developing a JavaScript client library for ONTAP® Pub/Sub messaging
+* Creating a companion web application for user interaction using Agile methodology
+* Conducting regular stand-up meetings to define and prioritize user stories
+
+#### 🏫 [Allegheny College](https://www.cs.allegheny.edu/teaching/technicalleaders/)
+
+**Technical Leader** *(Aug 2022 - Current)*
+
+* Mentoring 30-40 computer science students through advanced courses
+* Introducing 35-45 middle and high school students to robotics, data science, and game development
+* Collaborating with professors to enhance coursework and optimize class structures
+
 #### ✈️ [Howmet Aerospace](https://www.linkedin.com/company/howmet-aerospace/)
 
 **Web Apps & SQL Intern** *(May 2023 - Aug 2023)*
 
-* Developed full stack web app to generate and report server hosting quotes using Python, Django, and SQL complete with git version control, thorough documentation, and deployed with a CI/CD pipeline
-* Developed a tool to fully automate department wide security reporting processes using Python and SQL, saving upper level management nearly half a day per month and removing the need for manual reporting
-
-#### [Allegheny College](https://www.cs.allegheny.edu/teaching/technicalleaders/)
-
-**Technical Leader** *(Aug 2022 - Current)*
-
-* Utilize knowledge of discrete structures to assist current students during the CMPSC 102 class
-* Resolve any and all student questions related to CMPSC 102 or other Computer Science courses
-* Coach all computer science students on how to overcome challenging coursework or
-technical issues
-* Tutor students during office hours to clarify content that students find difficult
-
-
-#### [GatorGrade](https://github.com/GatorEducator/gatorgrade)
-
-**Software Engineer** *(Mar 2022 - June 2022)*
-
-* Developed a Python tool with a team that executes an automatic grading tool used by all computer science faculty at Allegheny College
-* Partnered with fellow developers to produce sustainable software design
-* Achieved all system requirements and goals in 6 weeks
-* Contributed to source code, made pull requests, added documentation and conducted code reviews
-
+* Led end-to-end development of a full-stack web app for server hosting quotes using Python, Django, and SQL; reduced managerial manual effort
+* Automated security reporting processes using Python and SQL; saved half a day/month for management
+* Managed and updated SQL servers across various organizational applications via RDP
+* Presented project results to CIO and every technology department head
 
 - - -
 
@@ -45,14 +42,14 @@ technical issues
 
 **B.S. Computer Science** *(August 2020 - Current)*
 
-**GPA:** 3.77
+**GPA:** 3.80
 **Major GPA:** 3.97
 
 |**Credentials**|**Awards and Organizations**|
 |---------------|----------------------------|
 |Software Development with Python|Alden Scholar (Dean’s List equivalent)|
 |Programming with Web Technologies|Phi Delta Theta Vice President|
-||Allegheny Student Government (ASG) Senator|
+|Data Analysis with Python and R|Allegheny Student Government (ASG) Senator|
 ||ASG Communications and Press Committee|
 ||Clay Club|
 
